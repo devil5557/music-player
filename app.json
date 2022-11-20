@@ -1,7 +1,7 @@
 {
-  "name": "LOGI MUSIC BOT",
+  "name": "Alex Beast",
   "description": "Make your own telegram music bot for stream music in group voice chat.",
-  "repository": "https://github.com/LOGI-LAP/music-player",
+  "repository": "https://github.com/Alex-Beast/music-player",
   "logo": "https://tse1.mm.bing.net/th?id=OIP.nvH6O8DkAI7_RCJoeZOuKQHaEK&pid=Api&P=0&w=315&h=178",
   "keywords": [
   "python3",
@@ -12,25 +12,25 @@
   "telegram-bot",
   "pyrogram"
   ],
-  "repository": "https://github.com/LOGI-LAP/music-player",
+  "repository": "https://github.com/Alex-Beast/music-player",
   "stack": "container",
   "env": {
-    "API_ID": {
+    "API_ID": {12476373
       "description": "Get this value from https://my.telegram.org",
       "value": "",
       "required": true
     },
-    "API_HASH": {
+    "API_HASH": {047a1c45de27fde868119046006f699c
       "description": "Get this value from https://my.telegram.org",
       "value": "",
       "required": true
     },
-    "BOT_TOKEN": {
+    "BOT_TOKEN": {5837462628:AAGTPJyAIiKUaK_zGkHxyix9vmjnYQ9mT-A
       "description": "A Bot's token from Botfather",
       "value": "",
       "required": true
     },
-    "DURATION_LIMIT": {
+    "DURATION_LIMIT": { 
       "description": "Duration Limit for Playout (In Mins).. Example: 60",
       "value": "60",
       "required": true
@@ -45,27 +45,27 @@
       "value": "",
       "required": true
     },
-    "MUSIC_BOT_NAME": {
+    "MUSIC_BOT_NAME": { Alex Beast
       "description": "A name for your Music Bot.",
       "value": "",
       "required": true
     },
-    "SUPPORT_CHANNEL": {
+    "SUPPORT_CHANNEL": {https://t.me/plusgiveaways
       "description": "Support Channel Link if you have any, Leave blank if no support. Your link must start with https://t.me/",
       "value": "",
       "required": false
     },
-    "SUPPORT_GROUP": {
+    "SUPPORT_GROUP": {https://t.me/KILLERGIVEAWAYS
       "description": "Support Group Link if you have any, Leave blank if no support. Your link must start with https://t.me/",
       "value": "",
       "required": false
     },
-    "OWNER_ID": {
+    "OWNER_ID": {1420471565
       "description": "The user id(s) of user(s) whom you would like to add as a OWNER. Multiple values shall be seperated with a space.",
       "value": "",
       "required": true
     },
-    "STRING_SESSION": {
+    "STRING_SESSION": {BQBULdLBubq5GnkmcTyLmhiqMZvDGtDCcFF4OA5o19ag0ANJfUyw-TfkwDcmcvzdjGhntjXF2qQx5jcJS-UfueXrHJCp9W6WDgOp35vVjTlXGNQgRrde_DyhHvGTTaRr__gfxsTBvgTrZvqqTJbXxstLFxxxz9QZgG-QIkKYE6W_tuYi2CfmA3HRPbFctfsW3LBmmfQNY-MkgWZHWepd5UBr482cLlY8WZIh-Ytth5oA3Ru7fWsAFH1NfK5AM5zYKEkOHwKL5z53s6rBgRks-mEVZseRL7IywLh6PkL64jS_MvUeEmltfYH1xXFdUejW6TOD7Kspu3VKl-UuiY3XVdxpVKqtDQA
       "description": "A Pyrogram String Session.",
       "value": "",
       "required": true
@@ -75,7 +75,7 @@
       "value": "",
       "required": true
     },
-    "SUDO_USERS": {
+    "SUDO_USERS": {1420471565
       "description": "The user id(s) of user(s) whom you would like to add as a SUDO. Multiple values shall be seperated with a space.",
       "value": "",
       "required": true
